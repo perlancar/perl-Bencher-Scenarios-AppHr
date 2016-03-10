@@ -10,7 +10,7 @@ use warnings;
 our $scenario = {
     summary => 'Benchmark runtime, to monitor regression',
     modules => {
-        'App::hr' => 0,
+        'App::hr' => {version=>0},
     },
     participants => [
         {
