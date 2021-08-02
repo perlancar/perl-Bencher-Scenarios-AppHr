@@ -2,3 +2,4 @@ Bencher-Scenarios-AppHr-*
 .build
 *~
 nytprof*
+.DS_Store
